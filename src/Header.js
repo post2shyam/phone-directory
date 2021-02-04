@@ -9,7 +9,7 @@ const Header = function () {
     textTransform: "uppercase",
   };
 
-  return <div className="header"> Phone Directory </div>;
+  return <div   style={headerStyle}> Phone Directory </div>;
 };
 
 export default Header;
