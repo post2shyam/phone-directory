@@ -8,7 +8,7 @@ import AddSubscriber from "./ AddSubscriber"
 
 ReactDOM.render(
   <React.StrictMode>
-    <AddSubscriber />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
